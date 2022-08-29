@@ -1,0 +1,9 @@
+.HomePage__Banner_Div {
+  display: flex;
+}
+
+.HomePage__Slider_Div {
+  width: 78%;
+  margin: auto;
+  height: 584px;
+}
